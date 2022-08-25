@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: url(fondo.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.container {
+    background-color:rgba(39, 39, 39,0.8);
+    width: 600px;
+    font-size: 20px;
+    margin: 100px auto;
+    padding: 30px;
+    color: rgb(216, 216, 216);
+    border-radius: 2.5px;
+}
+
+a {
+    color: rgb(216, 216, 216);
+}
+
+a:hover {
+    color: rgb(167, 167, 167);
+}
